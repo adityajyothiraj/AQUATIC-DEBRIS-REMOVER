@@ -20,4 +20,7 @@ To develop an aquatic rover with paddle wheels that can collect the pullutants a
 .. PIN IN3 ---> D1  
 .. PIN IN3 ---> D0  
 
-# Procedure
+# Procedure  
+1. Open Arduino IDE Create New Project.
+2. Interface L298N motor driver with esp8266 module.
+3. Connect the 12v input of the motor driver to a 12v power source.
