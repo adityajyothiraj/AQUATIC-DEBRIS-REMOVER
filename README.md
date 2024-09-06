@@ -18,6 +18,6 @@ To develop an aquatic rover with paddle wheels that can collect the pullutants a
 .. PIN IN1 ---> D3  
 .. PIN IN2 ---> D2  
 .. PIN IN3 ---> D1  
-.. PIN IN3 ---> D1  
+.. PIN IN3 ---> D0  
 
 # Procedure
