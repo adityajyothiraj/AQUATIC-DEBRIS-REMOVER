@@ -26,6 +26,7 @@ To develop an aquatic rover with paddle wheels that can collect the pullutants a
 3. Connect the 12v input of the motor driver to a 12v power source.
 
 # Code
+```
 #define ENA   14          // Enable/speed motors Right        GPIO14(D5)
 #define ENB   12          // Enable/speed motors Left         GPIO12(D6)
 #define IN_1  15          // L298N in1 motors Right           GPIO15(D8)
@@ -201,3 +202,4 @@ if( server.hasArg("State") ){
   server.send ( 200, "text/html", "" );
   delay(1);
 }
+```
