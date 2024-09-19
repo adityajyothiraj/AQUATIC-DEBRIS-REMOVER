@@ -42,7 +42,7 @@ String command;             //String to store app command state.
 int speedCar = 800;         // 400 - 1023.
 int speed_Coeff = 3;
 
-const char* ssid = "NodeMCU Car";
+const char* ssid = "Wifi SSID";
 ESP8266WebServer server(80);
 
 void setup() {
