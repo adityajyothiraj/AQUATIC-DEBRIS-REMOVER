@@ -1,9 +1,11 @@
 # AQUATIC-DEBRIS-REMOVER
 The Aquatic Debris Remover Project is an innovative initiative aimed at addressing the growing issue of water pollution caused by debris in aquatic environments. As rivers, lakes, and oceans become increasingly burdened with various types of waste, including plastics, metals, and organic materials, the need for effective and sustainable solutions to manage and remove this debris has never been more critical. This project seeks to develop and deploy advanced technologies to clean our water bodies, ensuring a healthier ecosystem and promoting environmental sustainability.
 
+![Screenshot from 2025-03-26 00-56-39](https://github.com/user-attachments/assets/d9fe5b24-4da4-41bf-9784-2991244d6c07)
 
 # Aim
 To develop an aquatic rover with paddle wheels that can collect the pullutants and debrises discharged into the water bodies and also monitor the live turbidity and pH values of the water body inorder to maintain a clean aqua reserve.
+
 
 # Components
 1. ESP8266(Node MCU)  
